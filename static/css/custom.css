@@ -137,3 +137,11 @@ div#disqus_thread {
 #full_name_1{
 	display: none;
 }
+
+.editor-toolbar.fullscreen {
+	top: 40px !important;
+}
+
+.CodeMirror-fullscreen {
+	top: 90px !important;
+}

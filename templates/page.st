@@ -15,6 +15,7 @@
 	<link href="$base$/css/bootstrap-responsive.min.css" rel="stylesheet">
     <link href="$base$/css/custom.css" rel="stylesheet" media="screen, projection" type="text/css" />
     <link href="$base$/css/print.css" rel="stylesheet" media="print" type= "text/css" />
+    <link rel="stylesheet" href="//cdn.jsdelivr.net/simplemde/latest/simplemde.min.css">
     $endif$
     <!--[if IE]><link href="$base$/css/ie.css" rel="stylesheet" media="screen, projection" type="text/css" /><![endif]-->
 	$analytics()$
@@ -38,11 +39,12 @@
         </div>
       </div>
     </div>
+    <script src="//cdn.jsdelivr.net/simplemde/latest/simplemde.min.js"></script>
     $javascripts$
     $expire()$
     $getuser()$
 	$prettify()$
-	<script src="http://code.jquery.com/jquery-1.8.3.js"></script>
+	<script src="https://code.jquery.com/jquery-1.8.3.js"></script>
     <script src="$base$/js/bootstrap.min.js"></script>
     <script src="$base$/js/apply-bootstrap.js"></script>
   </body>

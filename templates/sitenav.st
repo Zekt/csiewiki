@@ -6,7 +6,7 @@
 			<span class="icon-bar"></span>
 			<span class="icon-bar"></span>
 		</a>
-		<a class="brand" href="$base$/">成大資工 Wiki</a>
+		<a class="brand" href="$base$/">臺大資工 FOSS Wiki</a>
 		<div class="nav-collapse collapse">
 			<ul class="nav">
 				<li><a href="$base$/_index">所有頁面</a></li>
