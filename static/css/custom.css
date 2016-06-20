@@ -1,9 +1,7 @@
 @import url("hk-pyg.css"); /* for syntax highlighting */
 
-@media screen and (min-width: 980px){
-	body {
-		padding-top: 55px;
-	}
+body {
+	padding-top: 75px;
 }
 
 ul.tabs {

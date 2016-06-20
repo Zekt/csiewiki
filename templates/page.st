@@ -44,7 +44,7 @@
     $expire()$
     $getuser()$
 	$prettify()$
-	<script src="//code.jquery.com/jquery-1.8.3.js"></script>
+	<script src="//code.jquery.com/jquery-2.2.4.js"></script>
     <script src="$base$/js/bootstrap.min.js"></script>
     <script src="$base$/js/apply-bootstrap.js"></script>
   </body>
